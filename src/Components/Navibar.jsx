@@ -1,6 +1,6 @@
 import React from "react"
 
-export default function Navbar(props){
+export default function Navibar(props){
     const {children} = props;
     return (
         <nav className="navbar">
