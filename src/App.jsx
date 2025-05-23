@@ -2,7 +2,6 @@ import React from 'react'
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom'
 import Navbar from "./components/Navbar.jsx";
 import NavItem from "./components/NavItem.jsx";
-
 import Handicap from "./components/Handicap.jsx";
 import Home from "./components/Home.jsx";
 import Ninjas from "./components/Ninjas.jsx";
@@ -14,17 +13,14 @@ function App() {
     <>
         <Router>
             <Navbar>
-
-                <NavItem icon="🏠" path="/" />
+                <NavItem icon="🏠" path="/Home" />
                 <NavItem icon="🥷" path="/Ninjas"/>
-                    {/*<DropdownMenu/>*/}
-
                 <NavItem icon="♿" path="/Handicap" />
                 <NavItem icon="⛳.🏌️" path="/Rounds"/>
                 <NavItem icon="✈️" path="/Fedex"/>
             </Navbar>
             <Routes>
-                <Route path="/" element={<Home/>}/>
+                <Route path="/Home" element={<Home/>}/>
                 <Route path="/Ninjas" element={<Ninjas/>}/>
                 <Route path="/Handicap" element={<Handicap/>}/>
                 <Route path="/Rounds" element={<Rounds/>}/>

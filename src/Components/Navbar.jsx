@@ -6,6 +6,7 @@ export default function Navbar(props){
         <nav className="navbar">
             <ul className="navbar-nav">{children}</ul>
         </nav>
+
     )
 }
 
