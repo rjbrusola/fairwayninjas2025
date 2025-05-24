@@ -16,7 +16,7 @@ button {
 
 .hdcptd {
   text-align: center;
-  font-size: 6px;
+  font-size: 12px;
 }
 
 .hdcptr {
@@ -100,6 +100,7 @@ p {
   background-repeat: no-repeat;
   height: 100vh;
   opacity: 100%;
+  z-index: 1;
 }
 
 .h1home{
@@ -109,8 +110,9 @@ p {
   /*padding-top: 200px;*/
   height: 100vh;
   place-content: center;
-
+  z-index:  2;
   /*border: 1px solid black;*/
+  color: white;
 }
 
 .App {
@@ -179,8 +181,11 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
+  white-space: nowrap;
 }
-
+.lnk {
+  white-space: nowrap;
+}
 .icon-button {
   --button-size: calc(var(--nav-size) * 0.5);
   width: var(--button-size);
