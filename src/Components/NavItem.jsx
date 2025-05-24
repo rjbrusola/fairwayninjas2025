@@ -2,7 +2,7 @@
 import React, {useState} from 'react';
 import {Link} from 'react-router-dom';
 import {useNavigate} from 'react-router-dom';
-import happy from "../assets/fedexNav.png";
+import happy from "../assets/FedexNav.png";
 
 
 export default function NavItem(props) {
