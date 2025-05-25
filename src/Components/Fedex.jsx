@@ -1,28 +1,17 @@
 import React from 'react'
-import fedexPoints from "/src/Data/fedexpts.json";
+import round1fedex from "/src/Data/round1fedex.json";
+import round2fedex from "/src/Data/round2fedex.json";
+
+import FedexStandings from "./FedexStandings.jsx";
+import FedexRounds from "./FedexRounds.jsx";
 
 export default function Fedex() {
     return (
-        <ul className='main'>
-                    <table>
-                        <tbody>
-                        <tr>
-                            <th colSpan="6" className="hdcpth">FedEx Standings</th>
-                        </tr>
-                        <tr>
-                            <th>Ninja</th>
-                            <th>Total Points</th>
-                        </tr>
-                        {fedexPoints.map((item) => {
-                            return (
-                                <tr className="hdcptr" key={item.ninja}>
-                                    <td className="hdcptd" width="16%">{item.ninja}</td>
-                                    <td className="hdcptd"  width="10%">{item.fedexpts}</td>
-                                </tr>
-                            )
-                        })}
-                        </tbody>
-                    </table>
-        </ul>
+        <>
+            <FedexStandings/>
+            <FedexRounds roundData={round2fedex} roundDate="5-24"/>
+            <FedexRounds roundData={round1fedex} roundDate="5-17"/>
+        </>
+
     )
 }

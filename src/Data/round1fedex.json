@@ -1,0 +1,62 @@
+[
+  {
+    "pangalan": "Nes",
+    "forfedex": "*",
+    "net": "72",
+    "points": "10.0"
+  },
+  {
+    "pangalan": "Abe",
+    "forfedex": "*",
+    "net": "76",
+    "points": "8.0"
+  },
+  {
+    "pangalan": "Lito",
+    "forfedex": "*",
+    "net": "76",
+    "points": "8.0"
+  },
+  {
+    "pangalan": "Vedel",
+    "forfedex": "*",
+    "net": "76",
+    "points": "8.0"
+  },
+  {
+    "pangalan": "Boyet",
+    "forfedex": "*",
+    "net": "77",
+    "points": "4.3"
+  },
+  {
+    "pangalan": "Mel",
+    "forfedex": "*",
+    "net": "77",
+    "points": "4.3"
+  },
+  {
+    "pangalan": "Tony",
+    "forfedex": "*",
+    "net": "77",
+    "points": "4.3"
+  },
+  {
+    "pangalan": "Tom",
+    "forfedex": "",
+    "net": "72",
+    "points": "0.0"
+  },
+  {
+    "pangalan": "Jim",
+    "forfedex": "",
+    "net": "79",
+    "points": "0.0"
+  },
+  {
+    "pangalan": "Jon",
+    "forfedex": "",
+    "net": "80",
+    "points": "0.0"
+  }
+]

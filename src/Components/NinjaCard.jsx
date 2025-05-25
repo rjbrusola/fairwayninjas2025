@@ -1,4 +1,4 @@
-import React, {Children} from 'react'
+import React from 'react'
 import trophy from "../assets/silvertrophy.png"
 import fedeximg from "../assets/fedexLogo2.png"
 
@@ -13,9 +13,9 @@ export default function NinjaCard(props) {
                         {props.ngalan}
                     </td>
                     <td width="40%" align="right">
-                        {props.champ ? (
+                        {props.champ !== "" ? (
                             <div className="actionsContainer">{props.champ}
-                                <img src={trophy}></img></div>
+                                <img src={trophy} alt="Champion"></img></div>
                         ) : ("")}
                     </td>
                 </tr>
@@ -25,7 +25,7 @@ export default function NinjaCard(props) {
                 </tr>
                 <tr>
                     <td>Lowest Scores: <font className="fieldvalues">{props.lscore}</font></td>
-                    <td><img src={fedeximg}/>&nbsp;pts: &nbsp;&nbsp;<font className="fieldvalues">{props.fedex}</font></td>
+                    <td><img src={fedeximg} alt="FedEx"/>&nbsp;pts: &nbsp;&nbsp;<font className="fieldvalues">{props.fedex}</font></td>
                 </tr>
                 </tbody>
             </table>

@@ -1,13 +1,25 @@
 import React from 'react'
-import course1 from "../assets/course1.jpeg"
-import Ninjas from "./Ninjas.jsx";
 
 export default function Home() {
     return (
         <div className="App">
         <div className="bgroundimg" >
             <div className="h1home">
-                <h1 >2025 Fairway Ninjas Golf League</h1>
+                <h1><label style={{color:"navajowhite"}}>2025 Fairway Ninjas Golf League</label></h1>
+                <br/><br/>
+                <ul>
+                    <li><h2><label style={{color:"gold"}}>Golfer of the week:</label></h2></li>
+                </ul>
+                <ul>
+                    <li>
+                        <h3>5-24: <label className='ninja'>Tony</label> (net 73)</h3>
+                    </li>
+                    <li>
+                        <h3>5-17: <label className='ninja'>Nes</label> (net 72)</h3>
+                    </li>
+
+                </ul>
+
 
             </div>
         </div>
