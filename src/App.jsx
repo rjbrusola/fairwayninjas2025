@@ -16,7 +16,7 @@ function App() {
                 <NavItem icon="🏠" path="/" />
                 <NavItem icon="🥷" path="/Ninjas"/>
                 <NavItem icon="♿" path="/Handicap" />
-                <NavItem icon="🏌️‍♂️.⛳" path="/Rounds"/>
+                <NavItem icon="⛳.🏌️‍♂️" path="/Rounds"/>
                 <NavItem icon="" path="/Fedex"/>
             </Navbar>
             <Routes>
