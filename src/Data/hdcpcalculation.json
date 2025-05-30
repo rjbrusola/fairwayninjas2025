@@ -9,15 +9,15 @@
   },
   {
     "pangalan": "Abner",
-    "totalrounds": "0",
-    "scorestouse": "0",
-    "lowestscores": "-",
-    "avg": "-",
-    "hdcp": "7"
+    "totalrounds": "1",
+    "scorestouse": "1",
+    "lowestscores": "87",
+    "avg": "87",
+    "hdcp": "14"
   },
   {
     "pangalan": "Boyet",
-    "totalrounds": "1",
+    "totalrounds": "2",
     "scorestouse": "1",
     "lowestscores": "95",
     "avg": "95",
@@ -65,7 +65,7 @@
   },
   {
     "pangalan": "Tom",
-    "totalrounds": "2",
+    "totalrounds": "1",
     "scorestouse": "1",
     "lowestscores": "83",
     "avg": "83",
@@ -73,7 +73,7 @@
   },
   {
     "pangalan": "Tony",
-    "totalrounds": "2",
+    "totalrounds": "1",
     "scorestouse": "1",
     "lowestscores": "86",
     "avg": "86",
