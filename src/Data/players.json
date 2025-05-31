@@ -1,79 +1,79 @@
 [
   {
     "pangalan": "Abe",
-    "champion": "2021",
+    "Champion": "2021",
     "hdcp": "20",
     "lowscore": "93",
-    "fedex": "18"
-  },
-  {
-    "pangalan": "Abner",
-    "champion": "2020",
-    "hdcp": "14",
-    "lowscore": "87",
-    "fedex": "0"
-  },
-  {
-    "pangalan": "Boyet",
-    "champion": "",
-    "hdcp": "22",
-    "lowscore": "95",
-    "fedex": "11.8"
-  },
-  {
-    "pangalan": "Jim",
-    "champion": "",
-    "hdcp": "24",
-    "lowscore": "97",
-    "fedex": "0"
-  },
-  {
-    "pangalan": "Jon",
-    "champion": "",
-    "hdcp": "19",
-    "lowscore": "92",
-    "fedex": "0"
-  },
-  {
-    "pangalan": "Lito",
-    "champion": "",
-    "hdcp": "14",
-    "lowscore": "87",
-    "fedex": "8"
-  },
-  {
-    "pangalan": "Mel",
-    "champion": "2022",
-    "hdcp": "24",
-    "lowscore": "97",
-    "fedex": "13.3"
-  },
-  {
-    "pangalan": "Nes",
-    "champion": "",
-    "hdcp": "13",
-    "lowscore": "86",
     "fedex": "17.5"
   },
   {
+    "pangalan": "Abner",
+    "Champion": "2020",
+    "hdcp": "14",
+    "lowscore": "87",
+    "fedex": "7.0"
+  },
+  {
+    "pangalan": "Boyet",
+    "Champion": "",
+    "hdcp": "22",
+    "lowscore": "95",
+    "fedex": "9.3"
+  },
+  {
+    "pangalan": "Jim",
+    "Champion": "",
+    "hdcp": "14",
+    "lowscore": "87",
+    "fedex": "9.0"
+  },
+  {
+    "pangalan": "Jon",
+    "Champion": "",
+    "hdcp": "7",
+    "lowscore": "80",
+    "fedex": "10.0"
+  },
+  {
+    "pangalan": "Lito",
+    "Champion": "",
+    "hdcp": "14",
+    "lowscore": "87",
+    "fedex": "14.0"
+  },
+  {
+    "pangalan": "Mel",
+    "Champion": "2022",
+    "hdcp": "24",
+    "lowscore": "97",
+    "fedex": "13.8"
+  },
+  {
+    "pangalan": "Nes",
+    "Champion": "",
+    "hdcp": "13",
+    "lowscore": "86",
+    "fedex": "12.0"
+  },
+  {
     "pangalan": "Tom",
-    "champion": "2023",
-    "hdcp": "10",
-    "lowscore": "83",
-    "fedex": "0"
+    "Champion": "2023",
+    "hdcp": "11",
+    "lowscore": "84",
+    "fedex": "17.0"
   },
   {
     "pangalan": "Tony",
-    "champion": "",
+    "Champion": "",
     "hdcp": "13",
     "lowscore": "86",
-    "fedex": "4.3"
+    "fedex": "16.3"
   },
   {
     "pangalan": "Vedel",
-    "champion": "2024",
+    "Champion": "2024",
     "hdcp": "14",
     "lowscore": "87",
-    "fedex": "8"
+    "fedex": "10.0"
   }
 ]

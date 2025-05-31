@@ -1,7 +1,7 @@
 [
   {
     "pangalan": "Abe",
-    "totalrounds": "2",
+    "totalrounds": "3",
     "scorestouse": "1",
     "lowestscores": "93",
     "avg": "93",
@@ -9,7 +9,7 @@
   },
   {
     "pangalan": "Abner",
-    "totalrounds": "1",
+    "totalrounds": "2",
     "scorestouse": "1",
     "lowestscores": "87",
     "avg": "87",
@@ -17,7 +17,7 @@
   },
   {
     "pangalan": "Boyet",
-    "totalrounds": "2",
+    "totalrounds": "3",
     "scorestouse": "1",
     "lowestscores": "95",
     "avg": "95",
@@ -25,23 +25,23 @@
   },
   {
     "pangalan": "Jim",
-    "totalrounds": "2",
+    "totalrounds": "3",
     "scorestouse": "1",
-    "lowestscores": "97",
-    "avg": "97",
-    "hdcp": "24"
+    "lowestscores": "87",
+    "avg": "87",
+    "hdcp": "14"
   },
   {
     "pangalan": "Jon",
-    "totalrounds": "1",
+    "totalrounds": "2",
     "scorestouse": "1",
-    "lowestscores": "92",
-    "avg": "92",
-    "hdcp": "19"
+    "lowestscores": "80",
+    "avg": "80",
+    "hdcp": "7"
   },
   {
     "pangalan": "Lito",
-    "totalrounds": "1",
+    "totalrounds": "2",
     "scorestouse": "1",
     "lowestscores": "87",
     "avg": "87",
@@ -49,7 +49,7 @@
   },
   {
     "pangalan": "Mel",
-    "totalrounds": "2",
+    "totalrounds": "3",
     "scorestouse": "1",
     "lowestscores": "97",
     "avg": "97",
@@ -57,7 +57,7 @@
   },
   {
     "pangalan": "Nes",
-    "totalrounds": "2",
+    "totalrounds": "3",
     "scorestouse": "1",
     "lowestscores": "86",
     "avg": "86",
@@ -65,15 +65,15 @@
   },
   {
     "pangalan": "Tom",
-    "totalrounds": "1",
+    "totalrounds": "3",
     "scorestouse": "1",
-    "lowestscores": "83",
-    "avg": "83",
-    "hdcp": "10"
+    "lowestscores": "84",
+    "avg": "84",
+    "hdcp": "11"
   },
   {
     "pangalan": "Tony",
-    "totalrounds": "1",
+    "totalrounds": "3",
     "scorestouse": "1",
     "lowestscores": "86",
     "avg": "86",
@@ -81,7 +81,7 @@
   },
   {
     "pangalan": "Vedel",
-    "totalrounds": "1",
+    "totalrounds": "2",
     "scorestouse": "1",
     "lowestscores": "87",
     "avg": "87",

@@ -1,46 +1,46 @@
 [
   {
     "ninja": "Abe",
-    "fedexpts": "15.5"
-  },
-  {
-    "ninja": "Tony",
-    "fedexpts": "14.3"
-  },
-  {
-    "ninja": "Mel",
-    "fedexpts": "11.8"
-  },
-  {
-    "ninja": "Nes",
-    "fedexpts": "10.0"
+    "fedexpts": "17.5"
   },
   {
     "ninja": "Tom",
-    "fedexpts": "9.0"
+    "fedexpts": "17.0"
+  },
+  {
+    "ninja": "Tony",
+    "fedexpts": "16.3"
   },
   {
     "ninja": "Lito",
-    "fedexpts": "8.0"
+    "fedexpts": "14.0"
   },
   {
-    "ninja": "Vedel",
-    "fedexpts": "8.0"
+    "ninja": "Mel",
+    "fedexpts": "13.8"
   },
   {
-    "ninja": "Boyet",
-    "fedexpts": "4.3"
-  },
-  {
-    "ninja": "Abner",
-    "fedexpts": "0.0"
-  },
-  {
-    "ninja": "Jim",
-    "fedexpts": "0.0"
+    "ninja": "Nes",
+    "fedexpts": "12.0"
   },
   {
     "ninja": "Jon",
-    "fedexpts": "0.0"
+    "fedexpts": "10.0"
+  },
+  {
+    "ninja": "Vedel",
+    "fedexpts": "10.0"
+  },
+  {
+    "ninja": "Boyet",
+    "fedexpts": "9.3"
+  },
+  {
+    "ninja": "Jim",
+    "fedexpts": "9.0"
+  },
+  {
+    "ninja": "Abner",
+    "fedexpts": "7.0"
   }
 ]
