@@ -3,11 +3,13 @@ import RoundsTable from "./RoundsTable.jsx";
 import round1 from "/src/Data/round1.json";
 import round2 from "/src/Data/round2.json";
 import round3 from "/src/Data/round3.json";
+import round4 from "/src/Data/round4.json";
 
 
 export default function Rounds() {
     return (
         <>
+            <RoundsTable roundData={round4} roundDate="6-7" > </RoundsTable>
             <RoundsTable roundData={round3} roundDate="5-31" > </RoundsTable>
             <RoundsTable roundData={round2} roundDate="5-24" > </RoundsTable>
             <RoundsTable roundData={round1} roundDate="5-17" > </RoundsTable>

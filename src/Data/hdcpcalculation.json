@@ -1,7 +1,7 @@
 [
   {
     "pangalan": "Abe",
-    "totalrounds": "3",
+    "totalrounds": "4",
     "scorestouse": "1",
     "lowestscores": "93",
     "avg": "93",
@@ -9,15 +9,15 @@
   },
   {
     "pangalan": "Abner",
-    "totalrounds": "2",
+    "totalrounds": "3",
     "scorestouse": "1",
-    "lowestscores": "87",
-    "avg": "87",
-    "hdcp": "14"
+    "lowestscores": "86",
+    "avg": "86",
+    "hdcp": "13"
   },
   {
     "pangalan": "Boyet",
-    "totalrounds": "3",
+    "totalrounds": "4",
     "scorestouse": "1",
     "lowestscores": "95",
     "avg": "95",
@@ -25,7 +25,7 @@
   },
   {
     "pangalan": "Jim",
-    "totalrounds": "3",
+    "totalrounds": "4",
     "scorestouse": "1",
     "lowestscores": "87",
     "avg": "87",
@@ -57,7 +57,7 @@
   },
   {
     "pangalan": "Nes",
-    "totalrounds": "3",
+    "totalrounds": "4",
     "scorestouse": "1",
     "lowestscores": "86",
     "avg": "86",
@@ -73,7 +73,7 @@
   },
   {
     "pangalan": "Tony",
-    "totalrounds": "3",
+    "totalrounds": "4",
     "scorestouse": "1",
     "lowestscores": "86",
     "avg": "86",

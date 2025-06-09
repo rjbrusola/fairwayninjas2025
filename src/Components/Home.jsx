@@ -12,6 +12,9 @@ export default function Home() {
                 </ul>
                 <ul>
                     <li>
+                        <h3>6-7: <label className='ninja'>Abner</label> (net 72)</h3>
+                    </li>
+                    <li>
                         <h3>5-31: <label className='ninja'>Jon</label> (net 61)</h3>
                     </li>
                     <li>
