@@ -36,10 +36,10 @@
   },
   {
     "pangalan": "Lito",
-    "adjscore": "-",
-    "forfedex": "",
+    "adjscore": "95",
+    "forfedex": "*",
     "hdcp": "14",
-    "net": "-"
+    "net": "81"
   },
   {
     "pangalan": "Mel",
@@ -57,10 +57,10 @@
   },
   {
     "pangalan": "Tom",
-    "adjscore": "-",
-    "forfedex": "",
+    "adjscore": "94",
+    "forfedex": "*",
     "hdcp": "13",
-    "net": "-"
+    "net": "81"
   },
   {
     "pangalan": "Tony",
@@ -71,9 +71,9 @@
   },
   {
     "pangalan": "Vedel",
-    "adjscore": "",
-    "forfedex": "",
+    "adjscore": "87",
+    "forfedex": "*",
     "hdcp": "14",
-    "net": ""
+    "net": "73"
   }
 ]
