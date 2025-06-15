@@ -1,79 +1,79 @@
 [
   {
     "pangalan": "Abe",
-    "adjscore": "95",
+    "adjscore": "99",
     "forfedex": "*",
     "hdcp": "20",
-    "net": "75"
-  },
-  {
-    "pangalan": "Abner",
-    "adjscore": "86",
-    "forfedex": "*",
-    "hdcp": "14",
-    "net": "72"
-  },
-  {
-    "pangalan": "Boyet",
-    "adjscore": "101",
-    "forfedex": "*",
-    "hdcp": "22",
     "net": "79"
   },
   {
-    "pangalan": "Jim",
-    "adjscore": "94",
+    "pangalan": "Abner",
+    "adjscore": "87",
     "forfedex": "*",
     "hdcp": "14",
-    "net": "80"
+    "net": "73"
   },
   {
-    "pangalan": "Jon",
-    "adjscore": "85",
-    "forfedex": "",
-    "hdcp": "7",
-    "net": "78"
-  },
-  {
-    "pangalan": "Lito",
-    "adjscore": "95",
-    "forfedex": "*",
-    "hdcp": "14",
-    "net": "81"
-  },
-  {
-    "pangalan": "Mel",
+    "pangalan": "Boyet",
     "adjscore": "-",
     "forfedex": "",
-    "hdcp": "24",
+    "hdcp": "22",
     "net": "-"
   },
   {
-    "pangalan": "Nes",
-    "adjscore": "93",
+    "pangalan": "Jim",
+    "adjscore": "96",
     "forfedex": "*",
+    "hdcp": "14",
+    "net": "82"
+  },
+  {
+    "pangalan": "Jon",
+    "adjscore": "90",
+    "forfedex": "*",
+    "hdcp": "7",
+    "net": "83"
+  },
+  {
+    "pangalan": "Lito",
+    "adjscore": "-",
+    "forfedex": "",
+    "hdcp": "14",
+    "net": "-"
+  },
+  {
+    "pangalan": "Mel",
+    "adjscore": "102",
+    "forfedex": "*",
+    "hdcp": "24",
+    "net": "78"
+  },
+  {
+    "pangalan": "Nes",
+    "adjscore": "-",
+    "forfedex": "",
     "hdcp": "13",
-    "net": "80"
+    "net": "-"
   },
   {
     "pangalan": "Tom",
-    "adjscore": "94",
-    "forfedex": "*",
-    "hdcp": "13",
-    "net": "81"
-  },
-  {
-    "pangalan": "Tony",
     "adjscore": "89",
     "forfedex": "*",
     "hdcp": "13",
     "net": "76"
   },
   {
-    "pangalan": "Vedel",
-    "adjscore": "87",
+    "pangalan": "Tony",
+    "adjscore": "84",
     "forfedex": "*",
+    "hdcp": "13",
+    "net": "71"
+  },
+  {
+    "pangalan": "Vedel",
+    "adjscore": "-",
+    "forfedex": "",
     "hdcp": "14",
-    "net": "73"
+    "net": "-"
   }
 ]

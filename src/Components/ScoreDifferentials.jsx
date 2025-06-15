@@ -1,11 +1,5 @@
 import React from 'react'
 import RoundsTable from "./RoundsTable.jsx";
-import round1 from "/src/Data/round1.json";
-import round2 from "/src/Data/round2.json";
-import round3 from "/src/Data/round3.json";
-import round4 from "/src/Data/round4.json";
-import round5 from "/src/Data/round5.json";
-
 
 export default function Rounds() {
     return (
