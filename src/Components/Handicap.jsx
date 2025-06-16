@@ -1,5 +1,6 @@
 import React from 'react'
 import handicapCalculations from "/src/Data/hdcpcalculation.json";
+import ScoreDifferentials from "./ScoreDifferentials.jsx";
 
 export default function Handicap() {
     return (
@@ -32,6 +33,7 @@ export default function Handicap() {
                 })}
                 </tbody>
             </table>
+            <ScoreDifferentials />
         </ul>
     )
 }

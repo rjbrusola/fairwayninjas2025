@@ -1,14 +1,33 @@
 import React from 'react'
-import RoundsTable from "./RoundsTable.jsx";
+import scoreDifferentials from "../Data/scoredifferentials.json";
 
-export default function Rounds() {
+export default function ScoreDifferentials() {
     return (
-        <>
-            <RoundsTable roundData={round5} roundDate="6-14" > </RoundsTable>
-            <RoundsTable roundData={round4} roundDate="6-7" > </RoundsTable>
-            <RoundsTable roundData={round3} roundDate="5-31" > </RoundsTable>
-            <RoundsTable roundData={round2} roundDate="5-24" > </RoundsTable>
-            <RoundsTable roundData={round1} roundDate="5-17" > </RoundsTable>
-        </>
+        <ul className='main'>
+            <table>
+                <tbody>
+                <tr>
+                    <th colSpan="6" className="hdcpth">Score Differentials</th>
+                </tr>
+                <tr>
+                    <th># of Rounds Played</th>
+                    <th># of Rounds Used in HDCP Calculation</th>
+                    <th>Adjustment</th>
+                </tr>
+                {scoreDifferentials.map((item) => {
+                    return (
+                        <tr className="hdcptr" key={item.noofscoresinrecord}>
+                            <td className="hdcptd" width="34%">{item.noofscoresinrecord}</td>
+                            <td className="hdcptd" width="33%">{item.scoresusedhdcpcalc}</td>
+                            <td className="hdcptd"  width="33%">{item.adjustment}</td>
+                        </tr>
+                    )
+                })}
+                </tbody>
+            </table>
+        </ul>
+
     )
 }
+
+
