@@ -13,8 +13,8 @@ export default function Handicap() {
                 </tr>
                 <tr>
                     <th></th>
-                    <th># Rds</th>
-                    <th>Sores to use</th>
+                    <th>Total Rds</th>
+                    <th>Scores to use</th>
                     <th>Low Scores</th>
                     <th>Avg</th>
                     <th>HDCP</th>
@@ -24,9 +24,9 @@ export default function Handicap() {
                         <tr className="hdcptr" key={item.pangalan}>
                             <td className="hdcptd, ninja" width="16%">{item.pangalan}</td>
                             <td className="hdcptd"  width="10%">{item.totalrounds}</td>
-                            <td className="hdcptd"  width="10%">{item.scorestouse}</td>
+                            <td className="hdcptd"  width="19%">{item.scorestouse}</td>
                             <td className="hdcptd"  width="22%">{item.lowestscores}</td>
-                            <td className="hdcptd"  width="19%">{item.avg}</td>
+                            <td className="hdcptd"  width="10%">{item.avg}</td>
                             <td className="hdcptd"  width="19%">{item.hdcp}</td>
                         </tr>
                     )

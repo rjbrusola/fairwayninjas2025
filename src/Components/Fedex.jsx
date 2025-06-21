@@ -4,6 +4,7 @@ import round2fedex from "/src/Data/round2fedex.json";
 import round3fedex from "/src/Data/round3fedex.json";
 import round4fedex from "/src/Data/round4fedex.json";
 import round5fedex from "/src/Data/round5fedex.json";
+import round6fedex from "/src/Data/round6fedex.json";
 
 
 import FedexStandings from "./FedexStandings.jsx";
@@ -13,6 +14,7 @@ export default function Fedex() {
     return (
         <>
             <FedexStandings/>
+            <FedexRounds roundData={round6fedex} roundDate="6-21"/>
             <FedexRounds roundData={round5fedex} roundDate="6-14"/>
             <FedexRounds roundData={round4fedex} roundDate="6-7"/>
             <FedexRounds roundData={round3fedex} roundDate="5-31"/>
