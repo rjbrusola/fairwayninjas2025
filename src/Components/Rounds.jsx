@@ -8,11 +8,13 @@ import round5 from "/src/Data/round5.json";
 import round6 from "/src/Data/round6.json";
 import round7 from "/src/Data/round7.json";
 import round8 from "/src/Data/round8.json";
+import round9 from "/src/Data/round9.json";
 
 
 export default function Rounds() {
     return (
         <>
+            <RoundsTable roundData={round9} roundDate="7-12" > </RoundsTable>
             <RoundsTable roundData={round8} roundDate="7-5" > </RoundsTable>
             <RoundsTable roundData={round7} roundDate="6-28" > </RoundsTable>
             <RoundsTable roundData={round6} roundDate="6-21" > </RoundsTable>

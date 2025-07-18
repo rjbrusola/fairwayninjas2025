@@ -19,7 +19,7 @@
     "pangalan": "Boyet",
     "totalrounds": "5",
     "scorestouse": "1",
-    "lowestscores": "94",
+    "lowestscores": "94,",
     "avg": "94",
     "hdcp": "23"
   },
@@ -83,7 +83,7 @@
     "pangalan": "Vedel",
     "totalrounds": "3",
     "scorestouse": "1",
-    "lowestscores": "87",
+    "lowestscores": "87,",
     "avg": "87",
     "hdcp": "14"
   }
