@@ -5,7 +5,7 @@ import fedeximg from "../assets/fedexLogo2.png"
 export default function NinjaCard(props) {
 
     return (
-        <li>
+        <li className='borderBottom'>
             <table width="100%">
                 <tbody>
                 <tr>
@@ -24,7 +24,7 @@ export default function NinjaCard(props) {
 
                 </tr>
                 <tr>
-                    <td>Lowest Scores: <font className="fieldvalues">{props.lscore}</font></td>
+                    <td>Lowest Score: <font className="fieldvalues">{props.lscore}</font></td>
                     <td><img src={fedeximg} alt="FedEx"/>&nbsp;pts: &nbsp;&nbsp;<font className="fieldvalues">{props.fedex}</font></td>
                 </tr>
                 </tbody>

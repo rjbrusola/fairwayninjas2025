@@ -9,20 +9,24 @@ import round6 from "/src/Data/round6.json";
 import round7 from "/src/Data/round7.json";
 import round8 from "/src/Data/round8.json";
 import round9 from "/src/Data/round9.json";
+import round10 from "/src/Data/round10.json";
+import round11 from "/src/Data/round11.json";
 
 
 export default function Rounds() {
     return (
         <>
-            <RoundsTable roundData={round9} roundDate="7-12" > </RoundsTable>
-            <RoundsTable roundData={round8} roundDate="7-5" > </RoundsTable>
-            <RoundsTable roundData={round7} roundDate="6-28" > </RoundsTable>
-            <RoundsTable roundData={round6} roundDate="6-21" > </RoundsTable>
-            <RoundsTable roundData={round5} roundDate="6-14" > </RoundsTable>
-            <RoundsTable roundData={round4} roundDate="6-7" > </RoundsTable>
-            <RoundsTable roundData={round3} roundDate="5-31" > </RoundsTable>
-            <RoundsTable roundData={round2} roundDate="5-24" > </RoundsTable>
-            <RoundsTable roundData={round1} roundDate="5-17" > </RoundsTable>
+            <RoundsTable roundData={round11} roundDate="7-26" />
+            <RoundsTable roundData={round10} roundDate="7-19" />
+            <RoundsTable roundData={round9} roundDate="7-12" />
+            <RoundsTable roundData={round8} roundDate="7-5" />
+            <RoundsTable roundData={round7} roundDate="6-28" />
+            <RoundsTable roundData={round6} roundDate="6-21" />
+            <RoundsTable roundData={round5} roundDate="6-14" />
+            <RoundsTable roundData={round4} roundDate="6-7" />
+            <RoundsTable roundData={round3} roundDate="5-31" />
+            <RoundsTable roundData={round2} roundDate="5-24" />
+            <RoundsTable roundData={round1} roundDate="5-17" />
         </>
     )
 }

@@ -56,7 +56,7 @@ header,
   /*max-width: 800px;*/
   width: 100%;
   margin: 0 auto;
-  gap: 14px;
+  /* gap: 14px; */
 }
 
 header input {
@@ -92,7 +92,7 @@ p {
 .main {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  /*gap: 14px;*/
 }
 .bgroundimg {
   background-image: url('/src/assets/course1.jpeg');
@@ -222,6 +222,11 @@ ul {
 
 
 }
+
+.borderBottom {
+  border-bottom: 3px solid #ccc;
+
+  }
 
 .actionsContainer button {
   transition-duration: 200ms;

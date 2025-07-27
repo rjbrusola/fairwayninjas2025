@@ -1,90 +1,90 @@
 [
   {
     "pangalan": "Abe",
-    "totalrounds": "8",
-    "scorestouse": "2",
-    "lowestscores": "92,93",
-    "avg": "93",
-    "hdcp": "22"
+    "totalrounds": "10",
+    "scorestouse": "3",
+    "lowestscores": "92,92,93",
+    "avg": "92",
+    "hdcp": "21"
   },
   {
     "pangalan": "Abner",
-    "totalrounds": "7",
-    "scorestouse": "2",
-    "lowestscores": "81,82",
-    "avg": "82",
-    "hdcp": "11"
+    "totalrounds": "10",
+    "scorestouse": "3",
+    "lowestscores": "78,81,82",
+    "avg": "80",
+    "hdcp": "9"
   },
   {
     "pangalan": "Boyet",
-    "totalrounds": "5",
-    "scorestouse": "1",
-    "lowestscores": "94,",
-    "avg": "94",
-    "hdcp": "23"
+    "totalrounds": "8",
+    "scorestouse": "2",
+    "lowestscores": "94,95,",
+    "avg": "95",
+    "hdcp": "24"
   },
   {
     "pangalan": "Jim",
-    "totalrounds": "8",
-    "scorestouse": "2",
-    "lowestscores": "87,87",
-    "avg": "87",
-    "hdcp": "16"
+    "totalrounds": "11",
+    "scorestouse": "3",
+    "lowestscores": "84,87,87",
+    "avg": "86",
+    "hdcp": "15"
   },
   {
     "pangalan": "Jon",
-    "totalrounds": "7",
-    "scorestouse": "2",
-    "lowestscores": "80,85",
+    "totalrounds": "10",
+    "scorestouse": "3",
+    "lowestscores": "80,83,85",
     "avg": "83",
     "hdcp": "12"
   },
   {
     "pangalan": "Lito",
-    "totalrounds": "6",
-    "scorestouse": "2",
-    "lowestscores": "82,87",
-    "avg": "85",
+    "totalrounds": "9",
+    "scorestouse": "3",
+    "lowestscores": "82,84,85",
+    "avg": "84",
     "hdcp": "13"
   },
   {
     "pangalan": "Mel",
-    "totalrounds": "8",
-    "scorestouse": "2",
-    "lowestscores": "92,93",
-    "avg": "93",
-    "hdcp": "22"
+    "totalrounds": "11",
+    "scorestouse": "3",
+    "lowestscores": "91,92,93",
+    "avg": "92",
+    "hdcp": "21"
   },
   {
     "pangalan": "Nes",
-    "totalrounds": "7",
-    "scorestouse": "2",
-    "lowestscores": "81,86",
+    "totalrounds": "9",
+    "scorestouse": "3",
+    "lowestscores": "81,84,86",
     "avg": "84",
     "hdcp": "13"
   },
   {
     "pangalan": "Tom",
-    "totalrounds": "7",
-    "scorestouse": "2",
-    "lowestscores": "82,84",
-    "avg": "83",
-    "hdcp": "12"
+    "totalrounds": "10",
+    "scorestouse": "3",
+    "lowestscores": "81,82,84",
+    "avg": "82",
+    "hdcp": "11"
   },
   {
     "pangalan": "Tony",
-    "totalrounds": "8",
-    "scorestouse": "2",
-    "lowestscores": "84,84",
-    "avg": "84",
-    "hdcp": "13"
+    "totalrounds": "10",
+    "scorestouse": "3",
+    "lowestscores": "84,84,86",
+    "avg": "85",
+    "hdcp": "14"
   },
   {
     "pangalan": "Vedel",
-    "totalrounds": "3",
+    "totalrounds": "5",
     "scorestouse": "1",
-    "lowestscores": "87,",
-    "avg": "87",
-    "hdcp": "14"
+    "lowestscores": "86",
+    "avg": "86",
+    "hdcp": "15"
   }
 ]
