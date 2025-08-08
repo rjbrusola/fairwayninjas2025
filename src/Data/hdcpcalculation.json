@@ -1,7 +1,7 @@
 [
   {
     "pangalan": "Abe",
-    "totalrounds": "10",
+    "totalrounds": "11",
     "scorestouse": "3",
     "lowestscores": "92,92,93",
     "avg": "92",
@@ -9,7 +9,7 @@
   },
   {
     "pangalan": "Abner",
-    "totalrounds": "10",
+    "totalrounds": "11",
     "scorestouse": "3",
     "lowestscores": "78,81,82",
     "avg": "80",
@@ -17,23 +17,23 @@
   },
   {
     "pangalan": "Boyet",
-    "totalrounds": "8",
-    "scorestouse": "2",
-    "lowestscores": "94,95,",
+    "totalrounds": "9",
+    "scorestouse": "3",
+    "lowestscores": "94,95,95",
     "avg": "95",
     "hdcp": "24"
   },
   {
     "pangalan": "Jim",
-    "totalrounds": "11",
-    "scorestouse": "3",
-    "lowestscores": "84,87,87",
-    "avg": "86",
-    "hdcp": "15"
+    "totalrounds": "12",
+    "scorestouse": "4",
+    "lowestscores": "84,87,87,88",
+    "avg": "87",
+    "hdcp": "16"
   },
   {
     "pangalan": "Jon",
-    "totalrounds": "10",
+    "totalrounds": "11",
     "scorestouse": "3",
     "lowestscores": "80,83,85",
     "avg": "83",
@@ -41,7 +41,7 @@
   },
   {
     "pangalan": "Lito",
-    "totalrounds": "9",
+    "totalrounds": "10",
     "scorestouse": "3",
     "lowestscores": "82,84,85",
     "avg": "84",
@@ -49,15 +49,15 @@
   },
   {
     "pangalan": "Mel",
-    "totalrounds": "11",
-    "scorestouse": "3",
-    "lowestscores": "91,92,93",
-    "avg": "92",
-    "hdcp": "21"
+    "totalrounds": "12",
+    "scorestouse": "4",
+    "lowestscores": "91,92,93,94",
+    "avg": "93",
+    "hdcp": "22"
   },
   {
     "pangalan": "Nes",
-    "totalrounds": "9",
+    "totalrounds": "10",
     "scorestouse": "3",
     "lowestscores": "81,84,86",
     "avg": "84",
@@ -65,26 +65,26 @@
   },
   {
     "pangalan": "Tom",
-    "totalrounds": "10",
+    "totalrounds": "11",
     "scorestouse": "3",
-    "lowestscores": "81,82,84",
+    "lowestscores": "81,82,82",
     "avg": "82",
     "hdcp": "11"
   },
   {
     "pangalan": "Tony",
-    "totalrounds": "10",
+    "totalrounds": "11",
     "scorestouse": "3",
-    "lowestscores": "84,84,86",
+    "lowestscores": "84,84,86,",
     "avg": "85",
     "hdcp": "14"
   },
   {
     "pangalan": "Vedel",
-    "totalrounds": "5",
-    "scorestouse": "1",
-    "lowestscores": "86",
-    "avg": "86",
+    "totalrounds": "6",
+    "scorestouse": "2",
+    "lowestscores": "86,87",
+    "avg": "87",
     "hdcp": "15"
   }
 ]
