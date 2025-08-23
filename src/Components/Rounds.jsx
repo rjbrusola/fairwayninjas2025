@@ -13,11 +13,13 @@ import round10 from "/src/Data/round10.json";
 import round11 from "/src/Data/round11.json";
 import round12 from "/src/Data/round12.json";
 import round13 from "/src/Data/round13.json";
+import round14 from "/src/Data/round14.json";
 
 
 export default function Rounds() {
     return (
         <>
+            <RoundsTable roundData={round14} roundDate="8-23" />
             <RoundsTable roundData={round13} roundDate="8-9" />
             <RoundsTable roundData={round12} roundDate="8-2" />
             <RoundsTable roundData={round11} roundDate="7-26" />

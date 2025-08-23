@@ -1,25 +1,25 @@
 [
   {
     "pangalan": "Abe",
-    "totalrounds": "12",
+    "totalrounds": "13",
     "scorestouse": "4",
-    "lowestscores": "92,92,93,94",
+    "lowestscores": "92,92,93,93",
     "avg": "93",
     "hdcp": "22"
   },
   {
     "pangalan": "Abner",
-    "totalrounds": "11",
-    "scorestouse": "3",
-    "lowestscores": "78,81,82",
-    "avg": "80",
-    "hdcp": "9"
+    "totalrounds": "12",
+    "scorestouse": "4",
+    "lowestscores": "76,78,81,82",
+    "avg": "79",
+    "hdcp": "8"
   },
   {
     "pangalan": "Boyet",
     "totalrounds": "10",
     "scorestouse": "3",
-    "lowestscores": "88,94,95",
+    "lowestscores": "88,94,95,",
     "avg": "92",
     "hdcp": "21"
   },
@@ -41,19 +41,19 @@
   },
   {
     "pangalan": "Lito",
-    "totalrounds": "11",
-    "scorestouse": "3",
-    "lowestscores": "82,84,85",
+    "totalrounds": "12",
+    "scorestouse": "4",
+    "lowestscores": "82,84,85,85",
     "avg": "84",
     "hdcp": "13"
   },
   {
     "pangalan": "Mel",
-    "totalrounds": "13",
+    "totalrounds": "14",
     "scorestouse": "4",
-    "lowestscores": "91,92,93,94",
-    "avg": "93",
-    "hdcp": "22"
+    "lowestscores": "89,91,92,93",
+    "avg": "91",
+    "hdcp": "20"
   },
   {
     "pangalan": "Nes",
@@ -65,7 +65,7 @@
   },
   {
     "pangalan": "Tom",
-    "totalrounds": "12",
+    "totalrounds": "13",
     "scorestouse": "4",
     "lowestscores": "81,82,82,84",
     "avg": "82",
@@ -73,18 +73,18 @@
   },
   {
     "pangalan": "Tony",
-    "totalrounds": "12",
+    "totalrounds": "13",
     "scorestouse": "4",
-    "lowestscores": "84,84,86,86",
+    "lowestscores": "84,84,84,86",
     "avg": "85",
     "hdcp": "14"
   },
   {
     "pangalan": "Vedel",
-    "totalrounds": "7",
+    "totalrounds": "8",
     "scorestouse": "2",
-    "lowestscores": "86,87",
-    "avg": "87",
-    "hdcp": "16"
+    "lowestscores": "84,86",
+    "avg": "85",
+    "hdcp": "14"
   }
 ]

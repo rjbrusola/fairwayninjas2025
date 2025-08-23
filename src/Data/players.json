@@ -9,9 +9,9 @@
   {
     "pangalan": "Abner",
     "champion": "2020",
-    "hdcp": "9",
-    "lowscore": "78",
-    "fedex": "85.0"
+    "hdcp": "8",
+    "lowscore": "76",
+    "fedex": "94.5"
   },
   {
     "pangalan": "Boyet",
@@ -39,14 +39,14 @@
     "champion": "",
     "hdcp": "13",
     "lowscore": "82",
-    "fedex": "65.0"
+    "fedex": "72.0"
   },
   {
     "pangalan": "Mel",
     "champion": "2022",
-    "hdcp": "22",
-    "lowscore": "91",
-    "fedex": "66.3"
+    "hdcp": "20",
+    "lowscore": "89",
+    "fedex": "75.8"
   },
   {
     "pangalan": "Nes",
@@ -60,20 +60,20 @@
     "champion": "2023",
     "hdcp": "11",
     "lowscore": "81",
-    "fedex": "56.5"
+    "fedex": "62.5"
   },
   {
     "pangalan": "Tony",
     "champion": "",
     "hdcp": "14",
     "lowscore": "84",
-    "fedex": "66.8"
+    "fedex": "74.8"
   },
   {
     "pangalan": "Vedel",
     "champion": "2024",
-    "hdcp": "16",
-    "lowscore": "86",
+    "hdcp": "14",
+    "lowscore": "84",
     "fedex": "32.0"
   }
 ]

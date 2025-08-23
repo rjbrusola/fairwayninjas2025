@@ -12,12 +12,14 @@ export default function FedexStandings() {
                 <tr>
                     <th></th>
                     <th>Total Points</th>
+                    <th>Starting Score</th>
                 </tr>
                 {fedexPoints.map((item) => {
                     return (
                         <tr className="hdcptr" key={item.ninja}>
                             <td className="hdcptd, ninja" width="16%">{item.ninja}</td>
                             <td className="hdcptd"  width="10%">{item.fedexpts}</td>
+                            <td className="hdcptd"  width="10%">{item.willstart}</td>
                         </tr>
                     )
                 })}
