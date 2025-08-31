@@ -1,57 +1,68 @@
 [
   {
     "ninja": "Abner",
-    "fedexpts": "94.5",
-    "willstart": "-15"
-  },
-  {
-    "ninja": "Mel",
-    "fedexpts": "75.8",
-    "willstart": "-13"
+    "fedexpts": "103.0",
+    "willstart": "-15",
+    "group": "7:45a"
   },
   {
     "ninja": "Tony",
-    "fedexpts": "74.8",
-    "willstart": "-11"
+    "fedexpts": "84.8",
+    "willstart": "-13",
+    "group": "7:45a"
   },
   {
-    "ninja": "Abe",
-    "fedexpts": "72.0",
-    "willstart": "-9"
+    "ninja": "Mel",
+    "fedexpts": "82.3",
+    "willstart": "-11",
+    "group": "7:45a"
   },
   {
     "ninja": "Lito",
-    "fedexpts": "72.0",
-    "willstart": "-9"
+    "fedexpts": "80.5",
+    "willstart": "-10",
+    "group": "7:45a"
+  },
+  {
+    "ninja": "Abe",
+    "fedexpts": "78.5",
+    "willstart": "-8",
+    "group": "7:36a"
   },
   {
     "ninja": "Tom",
     "fedexpts": "62.5",
-    "willstart": "-5"
+    "willstart": "-6",
+    "group": "7:36a"
   },
   {
     "ninja": "Jim",
     "fedexpts": "59.5",
-    "willstart": "-4"
+    "willstart": "-4",
+    "group": "7:36a"
   },
   {
     "ninja": "Boyet",
     "fedexpts": "56.8",
-    "willstart": "-4"
+    "willstart": "-4",
+    "group": "7:36a"
   },
   {
     "ninja": "Jon",
     "fedexpts": "49.0",
-    "willstart": "-4"
+    "willstart": "-4",
+    "group": "7:28a"
   },
   {
     "ninja": "Vedel",
-    "fedexpts": "32.0",
-    "willstart": "-4"
+    "fedexpts": "37.0",
+    "willstart": "-4",
+    "group": "7:28a"
   },
   {
     "ninja": "Nes",
     "fedexpts": "31.0",
-    "willstart": "-4"
+    "willstart": "-4",
+    "group": "7:28a"
   }
 ]
