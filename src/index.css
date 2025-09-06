@@ -103,6 +103,16 @@ p {
   z-index: 1;
 }
 
+.leaderboard {
+  background-color: white;
+  opacity: 65%;
+}
+
+.redbold{
+  color: red;
+  font-weight: bold;
+}
+
 .h1home{
   display: flow;
   justify-content: center;
