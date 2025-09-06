@@ -23,6 +23,7 @@ button {
   height: 59px;
 }
 
+
 .hdcpth {
   border-bottom: #484a4d;
   border: 1px;
@@ -113,6 +114,9 @@ p {
   font-weight: bold;
 }
 
+.leaderboardtr{
+ height:30px
+}
 .h1home{
   display: flow;
   justify-content: center;

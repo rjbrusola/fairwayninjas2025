@@ -19,7 +19,10 @@ export default function Home() {
                         <th>Start</th>
                         <th></th>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: withdrawn</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">1</td>
                         <td width="14%"><font style={{color:'blue'}}>Abner</font></td>
                         <td width="14%" align="center">82</td>
@@ -32,7 +35,10 @@ export default function Home() {
                             </font>
                         </td>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: 8:08a</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">2</td>
                         <td width="14%"><font style={{color:'blue'}}>Tony</font></td>
                         <td width="14%" align="center">86</td>
@@ -42,7 +48,10 @@ export default function Home() {
                         <td width="23%" align="right">
                             <font className="redbold">11 under</font></td>
                     </tr>
-                    <tr className="hdcptr">
+                     <tr className="leaderboardtr">
+                         <td colspan="7" align="center">9/14 TeeTime: 8:08a</td>
+                     </tr>
+                   <tr className="leaderboardtr">
                         <td width="5%">3</td>
                         <td width="14%"><font style={{color:'blue'}}>Abe</font></td>
                         <td width="14%" align="center">93</td>
@@ -52,7 +61,10 @@ export default function Home() {
                         <td width="23%" align="right">
                             <font className="redbold">8 under</font></td>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: 8:08a</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">4</td>
                         <td width="14%"><font style={{color:'blue'}}>Mel</font></td>
                         <td width="14%" align="center">98</td>
@@ -62,7 +74,10 @@ export default function Home() {
                         <td width="23%" align="right">
                             <font className="redbold">5 under</font></td>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: withdrawn</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">5</td>
                         <td width="14%"><font style={{color:'blue'}}>Nes</font></td>
                         <td width="14%" align="center">86</td>
@@ -72,7 +87,10 @@ export default function Home() {
                         <td width="23%" align="right">
                             <font className="redbold">2 under</font></td>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: 8:08a</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">6</td>
                         <td width="14%"><font style={{color:'blue'}}>Lito</font></td>
                         <td width="14%" align="center">94</td>
@@ -82,7 +100,10 @@ export default function Home() {
                         <td width="23%" align="right">
                             <font>even</font></td>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">7</td>
                         <td width="14%"><font style={{color:'blue'}}>Tom</font></td>
                         <td width="14%" align="center">91</td>
@@ -92,7 +113,10 @@ export default function Home() {
                         <td width="23%" align="right">
                             <font>3 over</font></td>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">8</td>
                         <td width="14%"><font style={{color:'blue'}}>Jon</font></td>
                         <td width="14%" align="center">91</td>
@@ -102,7 +126,10 @@ export default function Home() {
                         <td width="23%" align="right">
                             <font className="">4 over</font></td>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">T9</td>
                         <td width="14%"><font style={{color:'blue'}}>Boyet</font></td>
                         <td width="14%" align="center">102</td>
@@ -112,7 +139,10 @@ export default function Home() {
                         <td width="23%" align="right">
                             <font className="">6 over</font></td>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">T9</td>
                         <td width="14%"><font style={{color:'blue'}}>Jim</font></td>
                         <td width="14%" align="center">97</td>
@@ -122,7 +152,10 @@ export default function Home() {
                         <td width="23%" align="right">
                             <font className="">6 over</font></td>
                     </tr>
-                    <tr className="hdcptr">
+                    <tr className="leaderboardtr">
+                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                    </tr>
+                    <tr className="leaderboardtr">
                         <td width="5%">T9</td>
                         <td width="14%"><font style={{color:'blue'}}>Vedel</font></td>
                         <td width="14%" align="center">96</td>
