@@ -8,7 +8,110 @@ export default function Home() {
                 <table width="100%" className="leaderboard">
                     <tbody>
                     <tr>
-                        <th colSpan="7" className="hdcpth">2025 Leaderboard</th>
+                        <th colSpan="7" className="hdcpth">2025 Final Round</th>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <th>Ninja</th>
+                        <th>R1Net</th>
+                        <th>R2Net</th>
+                        <th>R1+R2-142</th>
+                        <th>Payout</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>1</th>
+                        <th>Abe</th>
+                        <th>63</th>
+                        <th>77</th>
+                        <th><font className="redbold">2 under</font></th>
+                        <th>$150</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>2</th>
+                        <th>Mel</th>
+                        <th>66</th>
+                        <th>78</th>
+                        <th>2 over</th>
+                        <th>$100</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>T3</th>
+                        <th>Abner</th>
+                        <th>59</th>
+                        <th>86</th>
+                        <th>3 over</th>
+                        <th>$60</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>T3</th>
+                        <th>Boyet</th>
+                        <th>77</th>
+                        <th>68</th>
+                        <th>3 over</th>
+                        <th>$60</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>5</th>
+                        <th>Tony</th>
+                        <th>60</th>
+                        <th>86</th>
+                        <th>4 over</th>
+                        <th>$40</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>6</th>
+                        <th>Jon</th>
+                        <th>75</th>
+                        <th>72</th>
+                        <th>5 over</th>
+                        <th>$20</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>7</th>
+                        <th>Lito</th>
+                        <th>71</th>
+                        <th>78</th>
+                        <th>7 over</th>
+                        <th>-</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>T8</th>
+                        <th>Tom</th>
+                        <th>74</th>
+                        <th>76</th>
+                        <th>8 over</th>
+                        <th>-</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>T8</th>
+                        <th>Vedel</th>
+                        <th>77</th>
+                        <th>73</th>
+                        <th>8 over</th>
+                        <th>-</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>10</th>
+                        <th>Jim</th>
+                        <th>77</th>
+                        <th>74</th>
+                        <th>9 over</th>
+                        <th>-</th>
+                    </tr>
+                    <tr className="leaderboardtr">
+                        <th>11</th>
+                        <th>Nes</th>
+                        <th>69</th>
+                        <th>86</th>
+                        <th>13 over</th>
+                        <th>-</th>
+                    </tr>
+                    </tbody>
+                </table>
+                <table width="100%" className="leaderboard">
+                    <tbody>
+                    <tr>
+                        <th colSpan="7" className="hdcpth">2025 Round 1</th>
                     </tr>
                     <tr>
                         <th></th>
@@ -17,10 +120,7 @@ export default function Home() {
                         <th>HDCP</th>
                         <th>Net</th>
                         <th>Start</th>
-                        <th></th>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: withdrawn</td>
+                        <th>R1 Net</th>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">1</td>
@@ -31,12 +131,9 @@ export default function Home() {
                         <td width="14%" align="center">-15</td>
                         <td width="23%" align="right">
                             <font className="redbold">
-                                12 under
+                                -12 (59)
                             </font>
                         </td>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: 8:08a</td>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">2</td>
@@ -46,36 +143,28 @@ export default function Home() {
                         <td width="14%" align="center">+2</td>
                         <td width="14%" align="center">-13</td>
                         <td width="23%" align="right">
-                            <font className="redbold">11 under</font></td>
+                            <font className="redbold">-11 (60)</font></td>
                     </tr>
-                     <tr className="leaderboardtr">
-                         <td colspan="7" align="center">9/14 TeeTime: 8:08a</td>
-                     </tr>
                    <tr className="leaderboardtr">
                         <td width="5%">3</td>
                         <td width="14%"><font style={{color:'blue'}}>Abe</font></td>
                         <td width="14%" align="center">93</td>
                         <td width="14%" align="center">22</td>
-                        <td width="14%" align="center">even</td>
+                        <td width="14%" align="center">0</td>
                         <td width="14%" align="center">-8</td>
                         <td width="23%" align="right">
-                            <font className="redbold">8 under</font></td>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: 8:08a</td>
+                            <font className="redbold">-8 (63)</font></td>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">4</td>
                         <td width="14%"><font style={{color:'blue'}}>Mel</font></td>
                         <td width="14%" align="center">98</td>
+
                         <td width="14%" align="center">21</td>
                         <td width="14%" align="center">+6</td>
                         <td width="14%" align="center">-11</td>
                         <td width="23%" align="right">
-                            <font className="redbold">5 under</font></td>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: withdrawn</td>
+                            <font className="redbold">-5 (66)</font></td>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">5</td>
@@ -85,10 +174,7 @@ export default function Home() {
                         <td width="14%" align="center">+2</td>
                         <td width="14%" align="center">-4</td>
                         <td width="23%" align="right">
-                            <font className="redbold">2 under</font></td>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: 8:08a</td>
+                            <font className="redbold">-2 (69)</font></td>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">6</td>
@@ -98,10 +184,7 @@ export default function Home() {
                         <td width="14%" align="center">+10</td>
                         <td width="14%" align="center">-10</td>
                         <td width="23%" align="right">
-                            <font>even</font></td>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                            <font>0 (71)</font></td>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">7</td>
@@ -111,10 +194,7 @@ export default function Home() {
                         <td width="14%" align="center">+9</td>
                         <td width="14%" align="center">-6</td>
                         <td width="23%" align="right">
-                            <font>3 over</font></td>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                            <font>3 (74)</font></td>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">8</td>
@@ -124,10 +204,7 @@ export default function Home() {
                         <td width="14%" align="center">8</td>
                         <td width="14%" align="center">-4</td>
                         <td width="23%" align="right">
-                            <font className="">4 over</font></td>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                            <font className="">4 (75)</font></td>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">T9</td>
@@ -137,10 +214,7 @@ export default function Home() {
                         <td width="14%" align="center">10</td>
                         <td width="14%" align="center">-4</td>
                         <td width="23%" align="right">
-                            <font className="">6 over</font></td>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                            <font className="">6 (77)</font></td>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">T9</td>
@@ -150,10 +224,7 @@ export default function Home() {
                         <td width="14%" align="center">10</td>
                         <td width="14%" align="center">-4</td>
                         <td width="23%" align="right">
-                            <font className="">6 over</font></td>
-                    </tr>
-                    <tr className="leaderboardtr">
-                        <td colspan="7" align="center">9/14 TeeTime: 8:00a</td>
+                            <font className="">6 (77)</font></td>
                     </tr>
                     <tr className="leaderboardtr">
                         <td width="5%">T9</td>
@@ -163,7 +234,7 @@ export default function Home() {
                         <td width="14%" align="center">10</td>
                         <td width="14%" align="center">-4</td>
                         <td width="23%" align="right">
-                            <font className="">6 over</font></td>
+                            <font className="">6 (77)</font></td>
                     </tr>
                     </tbody>
                 </table>
