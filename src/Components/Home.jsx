@@ -24,7 +24,7 @@ export default function Home() {
                         <th>63</th>
                         <th>77</th>
                         <th><font className="redbold">2 under</font></th>
-                        <th>$150</th>
+                        <th>$120</th>
                     </tr>
                     <tr className="leaderboardtr">
                         <th>2</th>
@@ -40,7 +40,7 @@ export default function Home() {
                         <th>59</th>
                         <th>86</th>
                         <th>3 over</th>
-                        <th>$60</th>
+                        <th>$70</th>
                     </tr>
                     <tr className="leaderboardtr">
                         <th>T3</th>
@@ -48,7 +48,7 @@ export default function Home() {
                         <th>77</th>
                         <th>68</th>
                         <th>3 over</th>
-                        <th>$60</th>
+                        <th>$70</th>
                     </tr>
                     <tr className="leaderboardtr">
                         <th>5</th>
@@ -64,7 +64,7 @@ export default function Home() {
                         <th>75</th>
                         <th>72</th>
                         <th>5 over</th>
-                        <th>$20</th>
+                        <th>-</th>
                     </tr>
                     <tr className="leaderboardtr">
                         <th>7</th>
